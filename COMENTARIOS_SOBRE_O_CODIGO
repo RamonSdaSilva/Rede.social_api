@@ -1,0 +1,3 @@
+Nao consegui fazer cadastro de login e senha na mesma table entao coloquei em tables separadas e é necessario fazer
+um insert into login values('1', 'user', '$2a$10$Y50UaMFOxteibQEYLrwuHeehHYfcoafCopUazP12.rqB41bsolF5.'); senha esta codificada,
+ mas descodificada ela fica como 123456.
